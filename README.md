@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **byronvillegasm@gmail.com**
 
-- ⚡ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyl, CDs, music cassettes, movie soundtracks and video games**
+- ⚡ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
