@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bci Bank**
 
-- 🌱 I’m currently learning **Rust, Python**
+- 🌱 I’m currently learning **Rust and Python**
 
 - 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
