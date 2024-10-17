@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Byron Villegas Moya</h1>
-<h3 align="center">A passionate full stack developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cl.svg" width="24" height="18" alt="Chile" title="Chile" style="text-align: center" /> </h3>
+<h3 align="center">A passionate full stack developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cl.svg" width="24" height="18" alt="Chile" title="Chile" style="text-align: center;" /> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=0e75b6&style=flat" alt="byron-villegas" /> </p>
 
@@ -25,15 +25,16 @@
 
 <h3 align="left">Frameworks</h3>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/></a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="40"/></a> 
 
 <h3 align="left">Web</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png" alt="bootstrap" width="40" height="40"/></a>
 
 <h3 align="left">Runtime Environment</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -54,10 +55,13 @@
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
 <a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/1161862/2dbfeaf3-633a-4cf6-bb8a-b0538c52767d" alt="spock framework" width="80" height="40"/></a> 
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="65" height="40"/></a> 
+<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a> 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a> 
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> 
+<a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
 
@@ -79,10 +83,17 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/250px-MacOS_wordmark_%282017%29.svg.png" alt="macos" width="100" height="40"/></a>
 
+<h3 align="left">IDE</h3>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/></a> 
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse ide" width="40" height="40"/></a> 
+
 <h3 align="left">Tools</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/></a> 
+<a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://notepad-plus-plus.org/favicon.ico" alt="notepad++" width="40" height="40"/></a> 
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/favicon.ico" alt="draw.io" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="90" height="40"/></a> 
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/></a> 
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soap ui" width="40" height="40"/></a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://k8slens.dev/" target="_blank" rel="noreferrer"><img src="https://k8slens.dev/_next/static/media/download-page-icon.747cafab.svg" alt="k8slens" width="40" height="40"/></a>
