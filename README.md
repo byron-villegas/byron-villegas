@@ -40,9 +40,14 @@
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png" alt="bootstrap" width="40" height="40"/></a>
 
-<h3 align="left">Web Servers</h3>
+<h3 align="left">Web Server</h3>
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/></a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://jetty.org/" target="_blank" rel="noreferrer"><img src="https://jetty.org/_/img/jetty-logo.svg" alt="jetty" width="90" height="40"/></a>
+
+<h3 align="left">Web Application Server</h3>
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/2000px-JBoss_logo.svg.png" alt="jboss" width="90" height="40"/></a>
+<a href="https://javaee.github.io/glassfish/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="glassfish" width="90" height="40"/></a>
 
 <h3 align="left">SQL Database</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
