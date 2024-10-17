@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust, Python**
 
-- 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS**
+- 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
 - 📫 How to reach me **byronvillegasm@gmail.com**
 
