@@ -34,6 +34,21 @@
 <h3 align="left">Runtime Environment</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 
+<h3 align="left">Testing</h3>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a> 
+<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
+<a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/1161862/2dbfeaf3-633a-4cf6-bb8a-b0538c52767d" alt="spock framework" width="80" height="40"/></a> 
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="65" height="40"/></a> 
+<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> 
+<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a> 
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a> 
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> 
+<a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+
 <h3 align="left">Web</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -60,20 +75,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 
-<h3 align="left">Testing</h3>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a> 
-<a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
-<a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/1161862/2dbfeaf3-633a-4cf6-bb8a-b0538c52767d" alt="spock framework" width="80" height="40"/></a> 
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="65" height="40"/></a> 
-<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> 
-<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a> 
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a> 
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> 
-<a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+<h3 align="left">Database Management Tools</h3>
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> 
+<a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="mongodb compass" width="90" height="40"/></a>  
+<a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" alt="studio3t" width="90" height="40"/></a>  
 
 <h3 align="left">Deployment</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
@@ -88,6 +93,10 @@
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
 
+<h3 align="left">Observability</h3>
+<a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://dt-cdn.net/images/favicon-48x48-transparent-48-9b4df9c769.png" alt="dynatrace" width="40" height="40"/></a> 
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-96x96.png" alt="splunk" width="40" height="40"/></a> 
+
 <h3 align="left">Operating Systems</h3>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="microsoft" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
@@ -97,10 +106,15 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/></a> 
 <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse ide" width="40" height="40"/></a> 
 
-<h3 align="left">Tools</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<h3 align="left">Code Editor</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/></a> 
 <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://notepad-plus-plus.org/favicon.ico" alt="notepad++" width="40" height="40"/></a> 
+
+<h3 align="left">Version Control</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"><img src="https://subversion.apache.org/images/svn-name-banner.svg" alt="subversion" width="90" height="40"/></a> 
+
+<h3 align="left">Tools</h3>
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/favicon.ico" alt="draw.io" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/></a> 
