@@ -39,6 +39,10 @@
 <h3 align="left">Runtime Environment</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 
+<h3 align="left">Persistance</h3>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a> 
+<a href="https://blog.mybatis.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1483254" alt="mybatis" width="40" height="40"/></a>
+
 <h3 align="left">Testing</h3>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a> 
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
