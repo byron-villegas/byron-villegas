@@ -65,6 +65,10 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 
+<h3 align="left">CI/CD</h3>
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a> 
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="gitlab ci/cd" width="40" height="40"/></a> 
+
 <h3 align="left">Cloud Application Platform</h3>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> 
@@ -73,11 +77,15 @@
 <h3 align="left">Operating Systems</h3>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="microsoft" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+<a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/250px-MacOS_wordmark_%282017%29.svg.png" alt="macos" width="100" height="40"/></a>
 
 <h3 align="left">Tools</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="90" height="40"/></a> 
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soap ui" width="40" height="40"/></a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://k8slens.dev/" target="_blank" rel="noreferrer"><img src="https://k8slens.dev/_next/static/media/download-page-icon.747cafab.svg" alt="k8slens" width="40" height="40"/></a>
 
 <h3 align="left">Connect With Me</h3>
 <a href="https://linkedin.com/in/byron-stevens-villegas-moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron-stevens-villegas-moya" height="30" width="40"/></a>&nbsp;
