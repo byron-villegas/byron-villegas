@@ -31,14 +31,18 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="40"/></a> 
 
+<h3 align="left">Runtime Environment</h3>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+
 <h3 align="left">Web</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png" alt="bootstrap" width="40" height="40"/></a>
 
-<h3 align="left">Runtime Environment</h3>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<h3 align="left">Web Servers</h3>
+<a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/></a>
+<a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 
 <h3 align="left">SQL Database</h3>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
