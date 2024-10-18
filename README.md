@@ -90,6 +90,7 @@
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="mongodb compass" width="90" height="40"/></a>  
 <a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" alt="studio3t" width="90" height="40"/></a>  
+<a href="https://www.idera.com/dbartisan-database-administration-solution/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/992/992666.png" alt="dbartisan" width="40" height="40"/></a>  
 
 <h3 align="left">Deployment</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
