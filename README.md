@@ -138,7 +138,7 @@
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" height="160" alt="Most Used Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" /> <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" /><img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
