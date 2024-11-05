@@ -1,16 +1,18 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=56A0F6&width=800&height=60&lines=Hello+World!+I'm+Byron+Villegas)](https://github.com/byron-villegas)
 
-<p align="center">A passionate full stack developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cl.svg" width="24" height="18" alt="Chile" title="Chile" /> </p>
+<p>A passionate full stack developer from </p>
 
-- 🔭 I’m currently working on **Bci Bank**
+- 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="24" height="16" alt="Chile" title="Chile" />
 
-- 🌱 I’m currently learning **Rust and Python**
+- 👨🏻‍💻 I’m currently working on **Bci Bank**
+
+- 📝 I’m currently learning **Rust and Python**
 
 - 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
-- 📫 How to reach me <a href="mailto:byronvillegasm@gmail.com">**byronvillegasm@gmail.com**</a>
+- ✨ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
-- ⚡ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
+- ✉️ How to reach me <a href="mailto:byronvillegasm@gmail.com">**byronvillegasm@gmail.com**</a>
 
 ## Certifications
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=41835C15DA11B8C87341D15943E42C4F5229DFFE7B66804AF52CC81B6412C331&trk=public_profile_see-credential" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
