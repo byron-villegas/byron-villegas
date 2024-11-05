@@ -137,19 +137,15 @@
 [![Profile Trophy](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&no-bg=true&margin-w=10&margin-h=10)](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&no-bg=true&margin-w=10&margin-h=10)
 
 ## Github Stats
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" height="160" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" />  <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9)](https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9)
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)
