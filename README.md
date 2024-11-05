@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=56A0F6&width=800&height=60&lines=Hello+World!+I'm+Byron+Villegas)](https://github.com/byron-villegas)
 
-<h3 align="center">A passionate full stack developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cl.svg" width="24" height="18" alt="Chile" title="Chile" style="text-align: center;" /> </h3>
+<p align="center">A passionate full stack developer from <img src="https://raw.githubusercontent.com/lipis/flag-icons/refs/heads/main/flags/4x3/cl.svg" width="24" height="18" alt="Chile" title="Chile" /> </p>
 
 - 🔭 I’m currently working on **Bci Bank**
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
-- 📫 How to reach me **byronvillegasm@gmail.com**
+- 📫 How to reach me <a href="mailto:byronvillegasm@gmail.com">**byronvillegasm@gmail.com**</a>
 
 - ⚡ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
@@ -72,22 +72,14 @@
 <a href="https://javaee.github.io/glassfish/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="glassfish" width="90" height="40"/></a>
 
 ## SQL Database
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
-<a href="https://infocenter.sybase.com/help/index.jsp" target="_blank" rel="noreferrer"><img src="https://dbdb.io/media/logos/sybase.png" alt="sybase" width="110" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://infocenter.sybase.com/help/index.jsp" target="_blank" rel="noreferrer"><img src="https://dbdb.io/media/logos/sybase.png" alt="sybase" width="110" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 
 ## NoSQL Database
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 
 ## Database Management Tools
-<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="mongodb compass" width="90" height="40"/></a>  
-<a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" alt="studio3t" width="90" height="40"/></a>  
-<a href="https://www.idera.com/dbartisan-database-administration-solution/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/992/992666.png" alt="dbartisan" width="40" height="40"/></a>  
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> <a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="mongodb compass" width="90" height="40"/></a> <a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" alt="studio3t" width="90" height="40"/></a> <a href="https://www.idera.com/dbartisan-database-administration-solution/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/992/992666.png" alt="dbartisan" width="40" height="40"/></a>  
 
 ## Deployment
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
