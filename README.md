@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 I’m currently working on **Bci Bank**
 
-- 📝 I’m currently learning **Rust and Python**
+- 📝 I’m currently learning **Rust, Python and React**
 
 - 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
