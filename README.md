@@ -130,11 +130,11 @@
 <a href="https://tortoisesvn.net/downloads.html" target="_blank" rel="noreferrer"><img src="https://tortoisesvn.net/assets/img/favicons/favicon.ico" alt="tortoiseSVN" width="40" height="40"/></a>
 
 ## Connect With Me
-<a href="https://linkedin.com/in/byron-stevens-villegas-moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byron-stevens-villegas-moya" height="30" width="40"/></a>&nbsp;
-<a href="https://dev.to/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="byron-villegas" height="30" width="40"/></a> 
-<a href="https://stackoverflow.com/users/27822694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27822694" height="30" width="40"/></a> 
-<a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="byron-villegas" height="30" width="40"/></a> 
-<a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/byron-stevens-villegas-moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a> 
+<a href="https://dev.to/byron-villegas" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/width=40,height=40/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png" alt="dev.to" height="40" width="40"/></a> 
+<a href="https://stackoverflow.com/users/27822694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40"/></a> 
+<a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40"/></a> 
+<a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="40" width="40"/></a>
 
 ## Github Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2" />
