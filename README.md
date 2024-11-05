@@ -2,7 +2,7 @@
 
 <p>A passionate full stack developer from </p>
 
-- 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="24" height="16" alt="Chile" title="Chile" />
+- 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="18" height="12" alt="Chile" title="Chile" />
 
 - 👨🏻‍💻 I’m currently working on **Bci Bank**
 
