@@ -101,7 +101,7 @@
 ## Operating Systems
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="microsoft" width="40" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/250px-MacOS_wordmark_%282017%29.svg.png" alt="macos" width="100" height="40"/></a>
+<a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/474x/77/f0/33/77f033d90e28c29dc6ce7006e66d0caa.jpg" alt="macos" width="40" height="40"/></a>
 
 ## IDE
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/></a> 
