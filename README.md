@@ -32,20 +32,20 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/></a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/stable/_static/shortcut-icon.png" alt="flask" width="40" height="40"/></a> 
 
 ## Runtime Environment
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" alt="nodejs" width="40" height="40"/></a>
 
 ## Persistance
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a> 
 <a href="https://blog.mybatis.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1483254" alt="mybatis" width="40" height="40"/></a>
 
 ## Testing
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a> 
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/></a> 
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
-<a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/1161862/2dbfeaf3-633a-4cf6-bb8a-b0538c52767d" alt="spock framework" width="80" height="40"/></a> 
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="65" height="40"/></a> 
+<a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spockframework/spock/master/docs/images/spock-main-logo.png" alt="spock framework" width="40" height="40"/></a> 
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://site.mockito.org/favicon.ico" alt="mockito" width="40" height="40"/></a> 
 <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> 
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
@@ -75,11 +75,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://infocenter.sybase.com/help/index.jsp" target="_blank" rel="noreferrer"><img src="https://dbdb.io/media/logos/sybase.png" alt="sybase" width="110" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 
 ## NoSQL Database
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 
 ## Database Management Tools
-<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> <a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" alt="mongodb compass" width="90" height="40"/></a> <a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" alt="studio3t" width="90" height="40"/></a> <a href="https://www.idera.com/dbartisan-database-administration-solution/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/992/992666.png" alt="dbartisan" width="40" height="40"/></a>  
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/></a> <a href="https://www.mongodb.com/docs/compass/current/" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb compass" width="40" height="40"/></a> <a href="https://studio3t.com/" target="_blank" rel="noreferrer"><img src="https://studio3t.com/apple-touch-icon.png?v=3eBmpN7O3k" alt="studio3t" width="40" height="40"/></a> <a href="https://www.idera.com/dbartisan-database-administration-solution/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/992/992666.png" alt="dbartisan" width="40" height="40"/></a>  
 
 ## Deployment
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
@@ -116,12 +116,12 @@
 
 ## Version Control
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"><img src="https://subversion.apache.org/images/svn-name-banner.svg" alt="subversion" width="90" height="40"/></a> 
+<a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"><img src="https://subversion.apache.org/icon.png" alt="subversion" width="40" height="40"/></a> 
 
 ## Tools
-<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/favicon.ico" alt="draw.io" width="40" height="40"/></a> 
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/images/apple-touch-icon.png" alt="draw.io" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="100" height="40"/></a> 
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.png" alt="jmeter" width="40" height="40"/></a> 
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soap ui" width="40" height="40"/></a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://k8slens.dev/" target="_blank" rel="noreferrer"><img src="https://k8slens.dev/_next/static/media/download-page-icon.747cafab.svg" alt="k8slens" width="40" height="40"/></a>
