@@ -134,7 +134,7 @@
 <a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="30" width="40"/></a>
 
 ## Github Trophies
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&no-bg=true&margin-w=10&margin-h=10)](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&no-bg=true&margin-w=10&margin-h=10)
+<img src="https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2" />
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Most Used Languages" />
