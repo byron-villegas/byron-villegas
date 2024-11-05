@@ -18,7 +18,7 @@
 <a href="https://interstate21.com/certificate/?code=3G20IR4&trk=public_profile_see-credential" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
 <a href="https://drive.google.com/file/d/1NtvEAbp_nFRks-pt4ZQQMjr2t0w1JP-2/view?trk=public_profile_see-credential" target="_blank" rel="noreferrer"><img src="https://certiprof.com/cdn/shop/files/SCRUMMASTER_480x480.webp" alt="scrum master professional" width="40" height="40"/></a> 
 
-<h3 align="left">Programming Languages</h3>
+## Programming Languages
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
@@ -27,21 +27,21 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
 
-<h3 align="left">Frameworks</h3>
+## Frameworks
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/></a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="flask" width="110" height="40"/></a> 
 
-<h3 align="left">Runtime Environment</h3>
+## Runtime Environment
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 
-<h3 align="left">Persistance</h3>
+## Persistance
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a> 
 <a href="https://blog.mybatis.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1483254" alt="mybatis" width="40" height="40"/></a>
 
-<h3 align="left">Testing</h3>
+## Testing
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a> 
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
 <a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/1161862/2dbfeaf3-633a-4cf6-bb8a-b0538c52767d" alt="spock framework" width="80" height="40"/></a> 
@@ -56,18 +56,18 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
 
-<h3 align="left">Web</h3>
+## Web
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon-32x32.png" alt="bootstrap" width="40" height="40"/></a>
 
-<h3 align="left">Web Server</h3>
+## Web Server
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/></a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 <a href="https://jetty.org/" target="_blank" rel="noreferrer"><img src="https://jetty.org/_/img/jetty-logo.svg" alt="jetty" width="90" height="40"/></a>
 
-<h3 align="left">Web Application Server</h3>
+## Web Application Server
 <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/2000px-JBoss_logo.svg.png" alt="jboss" width="90" height="40"/></a>
 <a href="https://javaee.github.io/glassfish/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="glassfish" width="90" height="40"/></a>
 
