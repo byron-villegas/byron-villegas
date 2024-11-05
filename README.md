@@ -150,6 +150,5 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
     </picture>
 </div>
-
-
+<br/>
 [![Profile Views](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)
