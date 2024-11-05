@@ -143,4 +143,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9)](https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9)
 
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)
