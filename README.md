@@ -41,7 +41,7 @@
 
 ## Persistance
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a> 
-<a href="https://blog.mybatis.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1483254" alt="mybatis" width="40" height="40"/></a>
+<a href="https://blog.mybatis.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mybatis/logo/32295ff550d29ca6e8b22c8a325e22c617791bf9/logo-bird-ninja.svg" alt="mybatis" width="40" height="40"/></a>
 
 ## Testing
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/></a> 
