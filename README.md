@@ -139,7 +139,7 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" height="160" alt="Most Used Languages" />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" /> 
 <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 </p>
 
