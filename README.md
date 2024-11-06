@@ -1,6 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=40&pause=1000&color=56A0F6&width=800&height=60&lines=Hello+World!+I'm+Byron+Villegas)](https://github.com/byron-villegas)
 
-<p>A passionate full stack developer from </p>
+<p>
+Software engineer with 4 years of experience in software development using technologies such as Java, Javascript, Typescript, Angular and NodeJS. Passionate about being part of multidisciplinary teams to create innovative IT solutions, incorporating the best technologies and practices on the market.
+
+I enjoy facing new challenges, as they allow me to learn about new technologies and acquire valuable experiences for my personal and professional growth. I am actively involved in initiatives, learning and understanding the business to offer solutions that truly meet customer needs.
+
+I am passionate about learning about the technologies that interact in processes and I firmly believe that the best way to learn is by teaching others.
+</p>
 
 - 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="18" height="12" alt="Chile" title="Chile" />
 
