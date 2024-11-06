@@ -14,7 +14,7 @@ I am passionate about learning about the technologies that interact in processes
 
 - 📝 I’m currently learning **Rust, Python and React**
 
-- 💬 Ask me about **Java, Spring Framework, Angular, Node, Express, NestJS, SQL and NoSQL Database**
+- 💬 Ask me about **Java, Spring Framework, Javascript, Typescript, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
 - ✨ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
