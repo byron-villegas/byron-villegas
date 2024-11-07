@@ -20,6 +20,9 @@ I am passionate about learning about the technologies that interact in processes
 
 - ✉️ How to reach me <a href="mailto:byronvillegasm@gmail.com">**byronvillegasm@gmail.com**</a>
 
+## My Favorite Programming Quotes
+[![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://raw.githubusercontent.com/byron-villegas/byron-villegas/refs/heads/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
+
 ## Certifications
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=41835C15DA11B8C87341D15943E42C4F5229DFFE7B66804AF52CC81B6412C331&trk=public_profile_see-credential" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://certificates.dev/c/9d43ee19-9f4e-4e2d-84c5-9f9d4cef988e" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
