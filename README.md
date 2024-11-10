@@ -162,6 +162,8 @@ I am passionate about learning about the technologies that interact in processes
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byron_villegas&theme=github_dark" alt="Waka Time Stats" />
+
 <br/>
 <br/>
 
