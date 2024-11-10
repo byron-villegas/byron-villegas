@@ -145,21 +145,23 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40"/></a> 
 <a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="40" width="40"/></a>
 
-### Github Trophies
+### My Stats
 <img src="https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2" />
 
-### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Most Used Languages" />
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" /> 
     <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 </p>
 
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=byron-villegas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
 </picture>
+
 <br/>
 <br/>
 
