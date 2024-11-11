@@ -170,3 +170,4 @@ I am passionate about learning about the technologies that interact in processes
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)](https://komarev.com/ghpvc/?username=byron-villegas&label=Profile%20views&color=blue&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/0c6efff5-affd-454b-bc74-bccb7e22edf3.svg)](https://wakatime.com/@0c6efff5-affd-454b-bc74-bccb7e22edf3)
