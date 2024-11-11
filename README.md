@@ -146,9 +146,11 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="40" width="40"/></a>
 
 ### My Stats
-<img src="https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Most Used Languages" />
+![Throphies](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark)
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=byron-villegas&show_icons=true&locale=en&theme=github_dark" height="160" alt="Github Stats" /> 
     <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
@@ -156,7 +158,7 @@ I am passionate about learning about the technologies that interact in processes
 
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=byron-villegas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=byron_villegas&theme=github_dark" alt="Waka Time Stats" />
+![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=byron_villegas&theme=github_dark)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
