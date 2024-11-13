@@ -158,7 +158,7 @@ I am passionate about learning about the technologies that interact in processes
 
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=byron-villegas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ByronVillegas&theme=github_dark)
+![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByronVillegas&theme=github_dark)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
