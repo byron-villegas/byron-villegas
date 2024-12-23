@@ -102,8 +102,9 @@ I am passionate about learning about the technologies that interact in processes
 
 ### Cloud Application Platform
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
-<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="heroku" width="40" height="40"/></a> 
+<a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 
 ### Observability
 <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://dt-cdn.net/images/favicon-48x48-transparent-48-9b4df9c769.png" alt="dynatrace" width="40" height="40"/></a> 
