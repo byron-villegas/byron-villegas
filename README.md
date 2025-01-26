@@ -18,8 +18,6 @@ I am passionate about learning about the technologies that interact in processes
 
 - ✨ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
-- ✉️ How to reach me <a href="mailto:byronvillegasm@gmail.com">**byronvillegasm@gmail.com**</a>
-
 ### My Favorite Programming Quotes
 [![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://raw.githubusercontent.com/byron-villegas/byron-villegas/refs/heads/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
 
