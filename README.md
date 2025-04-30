@@ -32,7 +32,7 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
 <a href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/></a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/logos/rust-logo-512x512-blk.png" alt="rust" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> 
 
@@ -62,7 +62,7 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a> 
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> 
 <a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png" alt="selenium" width="40" height="40"/></a> 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
 
 ### Web
@@ -141,7 +141,7 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://www.linkedin.com/in/byron-villegas-moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a> 
 <a href="https://dev.to/byron-villegas" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/width=40,height=40/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png" alt="dev.to" height="40" width="40"/></a> 
 <a href="https://stackoverflow.com/users/27822694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40"/></a> 
-<a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="40" width="40"/></a> 
+<a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png" alt="codepen" height="40" width="40"/></a> 
 <a href="https://codesandbox.io/u/byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/codesandbox.svg" alt="byron-villegas" height="40" width="40"/></a>
 
 ### My Stats
