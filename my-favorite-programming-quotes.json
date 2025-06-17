@@ -10,5 +10,13 @@
   {
     "quote": "In theory, theory and practice are the same. In practice, they're not.",
     "author": "Yogi Berra"
+  },
+  {
+    "quote": "It is not the language that makes programs appear simple. It is the programmer that make the language appear simple!",
+    "author": "Robert C. Martin"
+  },
+  {
+    "quote": "We like to think we spend our time power typing, but we actually spend most of our time staring into the abyss.",
+    "author": "Douglas Crockford"
   }
 ]
