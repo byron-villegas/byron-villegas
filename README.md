@@ -19,7 +19,7 @@ I am passionate about learning about the technologies that interact in processes
 - ✨ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
 
 ### My Favorite Programming Quotes
-[![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://raw.githubusercontent.com/byron-villegas/byron-villegas/refs/heads/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
+[![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
 
 ### Certifications
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=41835C15DA11B8C87341D15943E42C4F5229DFFE7B66804AF52CC81B6412C331&trk=public_profile_see-credential" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
