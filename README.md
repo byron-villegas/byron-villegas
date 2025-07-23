@@ -161,6 +161,7 @@ I am passionate about learning about the technologies that interact in processes
 
 [![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByronVillegas&theme=github_dark)](https://github.com/byron-villegas)
 
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
