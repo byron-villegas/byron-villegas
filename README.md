@@ -42,8 +42,10 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> 
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" alt="gin" width="40" height="40"/></a> 
+<a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://actix.rs/img/logo.png" alt="actix" width="40" height="40"/></a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a> 
 
 ### Runtime Environment
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
