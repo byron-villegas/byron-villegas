@@ -104,13 +104,14 @@ I am passionate about learning about the technologies that interact in processes
 
 ### Cloud Application Platform
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
-<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="heroku" width="40" height="40"/></a> 
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a> 
 <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 
 ### Observability
-<a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://dt-cdn.net/images/favicon-48x48-transparent-48-9b4df9c769.png" alt="dynatrace" width="40" height="40"/></a> 
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-96x96.png" alt="splunk" width="40" height="40"/></a> 
+<a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://dt-cdn.net/images/favicon-48x48-transparent-48-9b4df9c769.png" alt="dynatrace" width="40" height="40"/></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/fav32.png" alt="grafana" width="40" height="40"/></a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-96x96.png" alt="splunk" width="40" height="40"/></a>
 
 ### Operating Systems
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="microsoft" width="40" height="40"/></a> 
@@ -134,6 +135,7 @@ I am passionate about learning about the technologies that interact in processes
 
 ### Tools
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/images/apple-touch-icon.png" alt="draw.io" width="40" height="40"/></a> 
+<a href="https://staruml.io/" target="_blank" rel="noreferrer"><img src="https://staruml.io/images/logo.png" alt="starUml" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.png" alt="jmeter" width="40" height="40"/></a> 
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soap ui" width="40" height="40"/></a> 
@@ -144,7 +146,7 @@ I am passionate about learning about the technologies that interact in processes
 ### Connect With Me
 <a href="https://www.linkedin.com/in/byron-villegas-moya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
 <a href="https://dev.to/byron-villegas" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/width=40,height=40/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png" alt="dev.to" height="40" width="40"/></a>
-<a href="https://medium.com/@byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="medium.com" height="40" width="40"/></a>
+<a href="https://medium.com/@byron-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="medium" height="40" width="40"/></a>
 <a href="https://stackoverflow.com/users/27822694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40"/></a> 
 <a href="https://codepen.io/byron-villegas" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png" alt="codepen" height="40" width="40"/></a>
 
