@@ -67,7 +67,10 @@ I am passionate about learning about the technologies that interact in processes
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> 
 <a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png" alt="selenium" width="40" height="40"/></a> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> 
+<a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer"><img src="https://nightwatchjs.org/favicon.ico" alt="nightwatchjs" width="40" height="40"/></a>
+<a href="https://testcafe.io/" target="_blank" rel="noreferrer"><img src="https://testcafe.io/favicon.ico" alt="testcafe" width="40" height="40"/></a> 
 
 ### Web
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -136,6 +139,8 @@ I am passionate about learning about the technologies that interact in processes
 ### Tools
 <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"><img src="https://app.diagrams.net/images/apple-touch-icon.png" alt="draw.io" width="40" height="40"/></a> 
 <a href="https://staruml.io/" target="_blank" rel="noreferrer"><img src="https://staruml.io/images/logo.png" alt="starUml" width="40" height="40"/></a> 
+<a href="https://www.powerdesigner.biz" target="_blank" rel="noreferrer"><img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="powerdesigner" width="40" height="40"/></a> 
+<a href="https://balsamiq.com/" target="_blank" rel="noreferrer"><img src="https://balsamiq.com/assets/favicon/apple-touch-icon.png" alt="balsamiq" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.png" alt="jmeter" width="40" height="40"/></a> 
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="soap ui" width="40" height="40"/></a> 
