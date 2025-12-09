@@ -10,7 +10,7 @@ I am passionate about learning about the technologies that interact in processes
 
 - 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="18" height="12" alt="Chile" title="Chile" />
 
-- 👨🏻‍💻 I’m currently working on [**Bci Bank**](https://www.bci.cl)
+- 👨🏻‍💻 I’m currently working on [**Banco Bci**](https://www.bci.cl)
 
 - 📝 I’m currently learning **Rust, Python and React**
 
