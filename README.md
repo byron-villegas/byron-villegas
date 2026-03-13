@@ -157,7 +157,7 @@ I am passionate about learning about the technologies that interact in processes
 
 ### My Stats
 
-[![Throphies](https://github-profile-trophy.vercel.app/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2)](https://github.com/byron-villegas)
+[![Throphies](https://gh-trophy.cdnsoft.net/?username=byron-villegas&theme=darkhub&column=5&no-bg=true&margin-w=2&margin-h=2)](https://github.com/byron-villegas)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=byron-villegas&show_icons=true&locale=en&layout=compact&theme=github_dark)](https://github.com/byron-villegas)
 
