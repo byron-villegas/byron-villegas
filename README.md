@@ -166,8 +166,6 @@ I am passionate about learning about the technologies that interact in processes
     <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 </p>
 
-[![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=byron-villegas&limit=5&theme=github_dark&combine_all_yearly_contributions=true)](https://github.com/byron-villegas)
-
 [![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByronVillegas&theme=github_dark)](https://github.com/byron-villegas)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
