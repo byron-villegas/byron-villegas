@@ -16,7 +16,7 @@ I am passionate about learning about the technologies that interact in processes
 
 - 💬 Ask me about **Java, Spring Framework, Javascript, Typescript, Angular, Node, Express, NestJS, SQL and NoSQL Database**
 
-- ✨ Fun fact **I like to collect old video games like SNES, N64, GB, GBC, GBA, I like to collect vinyls, CDs, cassettes of music and movie soundtracks and video games**
+- ✨ Fun fact: **I collect retro video game consoles (SNES, N64, GB, GBC, GBA), along with vinyls, CDs, and cassettes featuring music, movie soundtracks, and video game OSTs**
 
 ### My Favorite Programming Quotes
 [![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
