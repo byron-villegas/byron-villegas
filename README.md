@@ -8,15 +8,84 @@ I enjoy facing new challenges, as they allow me to learn about new technologies 
 I am passionate about learning about the technologies that interact in processes and I firmly believe that the best way to learn is by teaching others.
 </p>
 
-- 🌍 I’m from Chile <img src="https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CL%402x.png" width="18" height="12" alt="Chile" title="Chile" />
+```java
+public final class AboutMe {
+    public static void main(String[] args) {
+        SoftwareEngineer me = new SoftwareEngineer("Byron", "Villegas", "Moya",
+                29, "🇨🇱");
 
-- 👨🏻‍💻 I’m currently working on [**Banco Bci**](https://www.bci.cl)
+        me.setSkills(new String[]{"Java", "JavaScript", "TypeScript",
+                "Spring Boot", "Spring Framework", "Angular",
+                "Node", "Express", "NestJS",
+                "Oracle Database", "SQL Server", "Sybase",
+                "PostgreSQL", "MySQL", "MongoDB",
+                "Redis"});
 
-- 📝 I’m currently learning **Rust, Python and React**
+        me.setCertifications(new String[]{"Java SE 11 Developer",
+                "Junior JavaScript Dveloper",
+                "Spring Certified Professional 2024 [v2]",
+                "Junior Angular Developer",
+                "Scrum Master Professional Certificate (SMPC)"});
 
-- 💬 Ask me about **Java, Spring Framework, Javascript, Typescript, Angular, Node, Express, NestJS, SQL and NoSQL Database**
+        me.setPassions(new String[]{"Programming", "Gamming", "Music",
+                "Movies", "Anime"});
 
-- ✨ Fun fact: **I collect retro video game consoles (SNES, N64, GB, GBC, GBA), along with vinyls, CDs, and cassettes featuring music, movie soundtracks, and video game OSTs**
+        me.presentation();
+    }
+
+    static class SoftwareEngineer {
+        private String name;
+        private String firstLastName;
+        private String secondLastName;
+        private int age;
+        private String country;
+        private String[] skills;
+        private String[] certifications;
+        private String[] passions;
+
+        public SoftwareEngineer(String name, String firstLastName, String secondLastName, int age, String country) {
+            this.name = name;
+            this.firstLastName = firstLastName;
+            this.secondLastName = secondLastName;
+            this.age = age;
+            this.country = country;
+        }
+
+        public void setSkills(String[] skills) {
+            this.skills = skills;
+        }
+
+        public void setCertifications(String[] certifications) {
+            this.certifications = certifications;
+        }
+
+        public void setPassions(String[] passions) {
+            this.passions = passions;
+        }
+
+        public void presentation() {
+            System.out.printf("Hi, im %s %s %s%n",
+                    this.name, this.firstLastName, this.secondLastName);
+            System.out.printf("I'm %d years old and I'm from %s%n", this.age, this.country);
+            System.out.println("My skills are:");
+
+            for (String skill : this.skills) {
+                System.out.printf("- %s%n", skill);
+            }
+
+            System.out.println("My certifications are:");
+            for (String certification : this.certifications) {
+                System.out.printf("- %s%n", certification);
+            }
+
+            System.out.println("My passions are:");
+            for (String passion : this.passions) {
+                System.out.printf("- %s%n", passion);
+            }
+        }
+    }
+}
+```
 
 ### My Favorite Programming Quotes
 [![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
