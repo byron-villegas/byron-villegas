@@ -28,7 +28,7 @@ public final class AboutMe {
                 "Scrum Master Professional Certificate (SMPC)"});
 
         me.setPassions(new String[]{"Programming", "Gamming", "Music",
-                "Movies", "Anime"});
+                "Movies", "Anime", "Series"});
 
         me.presentation();
     }
