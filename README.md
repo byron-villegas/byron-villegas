@@ -179,11 +179,7 @@ public final class AboutMe {
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byron-villegas/byron-villegas/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution space shooter" src="game.gif">
-</picture>
+![My GitHub Game](game.gif)
 
 <br/>
 <br/>
