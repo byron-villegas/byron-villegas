@@ -184,7 +184,7 @@ public final class AboutMe {
 <img src="https://skillicons.dev/icons?i=git,svn"/>
 </p>
 
-### Cloud-based code hosting
+### Cloud-based Code Hosting
 <p align="left">
 <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/>
 </p>
