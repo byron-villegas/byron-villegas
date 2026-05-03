@@ -103,7 +103,7 @@ public final class AboutMe {
 
 ### Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,rust,python,go,c#"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,rust,python,go,cs"/>
 </p>
 
 ### Frameworks
@@ -116,6 +116,11 @@ public final class AboutMe {
 
 ### Testing
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/></a> <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/></a> <a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/spockframework/spock/master/docs/images/spock-main-logo.png" alt="spock framework" width="40" height="40"/></a> <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://site.mockito.org/favicon.ico" alt="mockito" width="40" height="40"/></a> <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/></a> <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a> <a href="https://karatelabs.github.io/karate/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/karatelabs/karatelabs-original.svg" alt="karate" width="40" height="40"/></a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png" alt="selenium" width="40" height="40"/></a> <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/></a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> <a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer"><img src="https://nightwatchjs.org/favicon.ico" alt="nightwatchjs" width="40" height="40"/></a> <a href="https://testcafe.io/" target="_blank" rel="noreferrer"><img src="https://testcafe.io/favicon.ico" alt="testcafe" width="40" height="40"/></a> 
+
+### Build Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=gradle,maven,npm,yarn"/>
+</p>
 
 ### Web
 <p align="left">
@@ -165,16 +170,23 @@ public final class AboutMe {
 </p>
 
 ### IDE
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/></a> <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://eclipseide.org/favicon.ico" alt="eclipse ide" width="40" height="40"/></a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/></a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/330px-Android_Studio_icon_%282023%29.svg.png" alt="android studio" width="40" height="40"/></a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visual studio" width="40" height="40"/></a> 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=idea,eclipse,androidstudio,visualstudio,netbeans"/>
+</p>
 
 ### Code Editor
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,notepadplusplus"/>
+<img src="https://skillicons.dev/icons?i=vscode,sublime,notepadpp"/>
 </p>
 
 ### Version Control
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,svn"/>
+</p>
+
+### Cloud-based code hosting
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/>
 </p>
 
 ### Tools
