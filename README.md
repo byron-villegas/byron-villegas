@@ -177,6 +177,15 @@ public final class AboutMe {
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java         44 mins               ███████████░░░░░░░░░░░░░░   43.84 %
+HTML         19 mins               █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Markdown     16 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Groovy       11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+YAML         8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
