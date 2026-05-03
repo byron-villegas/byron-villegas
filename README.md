@@ -152,7 +152,7 @@ public final class AboutMe {
 </p>
 
 ### Cloud Application Platform
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=azure,vercel,heroku,render"/>
 </p>
 
