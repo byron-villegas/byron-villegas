@@ -168,7 +168,9 @@ public final class AboutMe {
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/></a> <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://eclipseide.org/favicon.ico" alt="eclipse ide" width="40" height="40"/></a> <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" alt="netbeans" width="40" height="40"/></a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/330px-Android_Studio_icon_%282023%29.svg.png" alt="android studio" width="40" height="40"/></a> <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visual studio" width="40" height="40"/></a> 
 
 ### Code Editor
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/></a> <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://notepad-plus-plus.org/favicon.ico" alt="notepad++" width="40" height="40"/></a> 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,notepadplusplus"/>
+</p>
 
 ### Version Control
 <p align="left">
