@@ -11,6 +11,15 @@ permissions:
   contents: write
 
 jobs:
+  update-readme:
+    permissions: 
+      contents: write
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
   generate:
     permissions: 
       contents: write
