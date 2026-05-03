@@ -176,7 +176,8 @@ public final class AboutMe {
     <img src="https://streak-stats.demolab.com?user=byron-villegas&theme=github-dark-dimmed&background=45%2CEB545400%2CEB545400&border=EBD9D9" height="160" alt="Github Streak" />
 </p>
 
-[![Waka Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByronVillegas&theme=github_dark)](https://github.com/byron-villegas)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
