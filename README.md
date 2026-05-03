@@ -152,7 +152,9 @@ public final class AboutMe {
 </p>
 
 ### Cloud Application Platform
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a> <a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/hvk0tap5/production/c4fd92ad649864b4aa2d4985072b9779bd7e8119-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,vercel,heroku,render"/>
+</p>
 
 ### Observability
 <a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"><img src="https://dt-cdn.net/images/favicon-48x48-transparent-48-9b4df9c769.png" alt="dynatrace" width="40" height="40"/></a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/fav32.png" alt="grafana" width="40" height="40"/></a> <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.splunk.com/content/dam/splunk2/images/icons/favicons/favicon-96x96.png" alt="splunk" width="40" height="40"/></a>
