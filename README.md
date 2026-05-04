@@ -12,8 +12,6 @@ I am passionate about learning about the technologies that interact in processes
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,spring,angular,express,nestjs"/>
 </p>
 
-[Enjoy 🎶](https://www.youtube.com/watch?v=BLXuQULWYNw)
-
 ```java
 public final class AboutMe {
     public static void main(String[] args) {
@@ -92,6 +90,10 @@ public final class AboutMe {
     }
 }
 ```
+
+[Enjoy 🎶](https://www.youtube.com/watch?v=BLXuQULWYNw)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=aknijfh0g91z2okxtyhnh4owm&unique={true|1|on|yes})](https://open.spotify.com/user/aknijfh0g91z2okxtyhnh4owm)
 
 ### My Favorite Programming Quotes
 [![Typing SVG](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)](https://github.com/byron-villegas/byron-villegas/blob/main/my-favorite-programming-quotes.json)
