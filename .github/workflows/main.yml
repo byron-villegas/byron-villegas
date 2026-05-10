@@ -1,4 +1,4 @@
-name: generate animation
+name: Update README Metrics and Generate Animations
 
 on:
   schedule:
