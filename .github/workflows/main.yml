@@ -38,6 +38,9 @@ jobs:
     name: Generate 3D Contribution Graphs
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,7 +51,8 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated"; then
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
   generate-snake-animation:
     needs: generate-space-shooter-gif
@@ -59,6 +63,9 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - name: generate github-contribution-grid-snake.svg # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
         uses: Platane/snk/svg-only@v3
         with:
@@ -82,7 +89,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          fetch-depth: 2  # This is crucial!
+          ref: main
+          fetch-depth: 0
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
