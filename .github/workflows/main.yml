@@ -7,14 +7,18 @@ on:
   push:
     branches: [ main ] # run on every push on the master branch
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-wakatime-metrics:
     permissions: 
       contents: write
-    name: WakaReadme DevMetrics
+    name: Update README WakaTime Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # this action name
@@ -28,9 +32,27 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-  generate:
+  generate-3d-contribution-graphs:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graphs
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
+  generate-snake-animation:
     permissions: 
       contents: write
+    name: Generate Snake Contribution Animation
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -48,7 +70,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  update-game:
+  generate-space-shooter-gif:
+    needs: update-wakatime-metrics
+    name: Generate Space Shooter GIF
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
