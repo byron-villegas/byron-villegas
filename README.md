@@ -203,7 +203,7 @@ public final class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 30 May 2026
+From: 10 November 2024 - To: 31 May 2026
 
 Total Time: 485 hrs 42 mins
 
