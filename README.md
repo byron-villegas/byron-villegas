@@ -203,20 +203,20 @@ public final class AboutMe {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 30 June 2026
+From: 10 November 2024 - To: 01 July 2026
 
-Total Time: 511 hrs 31 mins
+Total Time: 512 hrs 30 mins
 
-TypeScript            88 hrs 37 mins        >>>>---------------------   17.23 %
-Java                  81 hrs 34 mins        >>>>---------------------   15.86 %
-JavaScript            71 hrs 56 mins        >>>----------------------   13.99 %
-JSON                  69 hrs 14 mins        >>>----------------------   13.46 %
-Markdown              34 hrs 7 mins         >>-----------------------   06.63 %
-Rust                  32 hrs 3 mins         >>-----------------------   06.23 %
-Python                22 hrs 46 mins        >------------------------   04.43 %
-YAML                  17 hrs 8 mins         >------------------------   03.33 %
-HTML                  14 hrs 19 mins        >------------------------   02.79 %
-Groovy                13 hrs 30 mins        >------------------------   02.63 %
+TypeScript            88 hrs 41 mins        >>>>---------------------   17.21 %
+Java                  82 hrs 9 mins         >>>>---------------------   15.94 %
+JavaScript            71 hrs 58 mins        >>>----------------------   13.96 %
+JSON                  69 hrs 14 mins        >>>----------------------   13.43 %
+Markdown              34 hrs 7 mins         >>-----------------------   06.62 %
+Rust                  32 hrs 3 mins         >>-----------------------   06.22 %
+Python                22 hrs 46 mins        >------------------------   04.42 %
+YAML                  17 hrs 18 mins        >------------------------   03.36 %
+HTML                  14 hrs 20 mins        >------------------------   02.78 %
+Groovy                13 hrs 33 mins        >------------------------   02.63 %
 ```
 
 <!--END_SECTION:waka-->
