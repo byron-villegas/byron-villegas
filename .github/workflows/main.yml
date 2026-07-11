@@ -1,11 +1,7 @@
 name: Update README Metrics and Generate Animations
 
 on:
-  schedule:
-    - cron: "0 */24 * * *" # run automatically every 24 hours
   workflow_dispatch: # allows to manually run the job at any time
-  push:
-    branches: [ main ] # run on every push on the master branch
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
